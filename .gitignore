@@ -1,0 +1,8 @@
+telegram.env
+*.log
+slot-alerts/
+*.png
+*.xml
+.env
+.env.*
+!.env.example
